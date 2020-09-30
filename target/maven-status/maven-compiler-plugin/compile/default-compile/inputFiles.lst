@@ -1,0 +1,9 @@
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/javipc/Documents/A_Tec/AdministradorSoft/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
